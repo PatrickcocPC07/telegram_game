@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/:id" element={<GameContainer />} />
+        <Route path="/telegram_game/:id" element={<GameContainer />} />
       </Routes>
     </div>
   );
