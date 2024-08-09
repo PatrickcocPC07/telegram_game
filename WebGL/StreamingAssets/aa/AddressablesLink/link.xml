@@ -1,0 +1,341 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TalesFromTheRift.CanvasKeyboard" preserve="all" />
+    <type fullname="TalesFromTheRift.CanvasKeyboardASCII" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="EPOOutline.TargetStateListener" preserve="all" />
+  </assembly>
+  <assembly fullname="AVProVideo.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer" preserve="all" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaReference" preserve="all" />
+    <type fullname="RenderHeads.Media.AVProVideo.ResolveToRenderTexture" preserve="all" />
+    <type fullname="RenderHeads.Media.AVProVideo.HttpHeaderData" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.KeyAuthData" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaHints" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPath" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer/OptionsAndroid" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer/OptionsApple" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWebGL" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWindows" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayer/OptionsWindowsUWP" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.MediaPlayerEvent" preserve="nothing" serialized="true" />
+    <type fullname="RenderHeads.Media.AVProVideo.VideoResolveOptions" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="Febucci.TextAnimator.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Febucci.UI.Actions.ActionDatabase" preserve="all" />
+    <type fullname="Febucci.UI.Actions.SpeedAction" preserve="all" />
+    <type fullname="Febucci.UI.Actions.WaitAnyInputAction" preserve="all" />
+    <type fullname="Febucci.UI.Actions.WaitForAction" preserve="all" />
+    <type fullname="Febucci.UI.Effects.AnimationsDatabase" preserve="all" />
+    <type fullname="Febucci.UI.Effects.BounceBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.DangleBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.DiagonalExpandAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.FadeAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.FadeBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.HorizontalExpandAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.OffsetAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.PendulumBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.RainbowBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.RandomDirectionAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.RotatingAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.RotationBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.ShakeBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.SizeAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.SizeBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.SlideBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.SwingBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.VerticalExpandAppearance" preserve="all" />
+    <type fullname="Febucci.UI.Effects.WaveBehavior" preserve="all" />
+    <type fullname="Febucci.UI.Effects.WiggleBehavior" preserve="all" />
+    <type fullname="Febucci.UI.TypewriterByCharacter" preserve="all" />
+    <type fullname="Febucci.UI.Core.CharacterEvent" preserve="nothing" serialized="true" />
+    <type fullname="Febucci.UI.Core.MessageEvent" preserve="nothing" serialized="true" />
+    <type fullname="Febucci.UI.TimeData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Febucci.TextAnimator.TMP.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Febucci.UI.TextAnimator_TMP" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanCommonPlus, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Common.LeanConstrainLocalPosition" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanTouch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Touch.LeanDragTranslate" preserve="all" />
+    <type fullname="Lean.Touch.LeanSelectableByFinger" preserve="all" />
+    <type fullname="Lean.Touch.LeanScreenDepth" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanFingerFilter" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanSelectableByFinger/LeanFingerEvent" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanSelectableByFinger/LeanSelectFingerEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LeanTouchPlus, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Touch.LeanPickable" preserve="all" />
+    <type fullname="Lean.Touch.LeanPickable/LeanFingerEvent" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanPickable/Vector2Event" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Touch.LeanPickable/Vector3Event" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MiniGame, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Technine.MiniGame.AppRoot.CameraSize" preserve="all" />
+    <type fullname="Technine.MiniGame.Modules.ScaleToFitScreen" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages._Custom.PageSmartSelfie_LabHK.PageSmartSelfie_LabHK" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages._Custom.PageSmartSelfie_LabHK.PoseTrackPhotoTaking" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages._Custom.PageSmartSelfie_LabHK.SSLabHKHandObjController" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.EndingUI" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageEnding" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageLeaderboard.PageLeaderboard" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageNameField.PageNameFieldWith" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageNameField.PageNameFieldWithGameResult" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageQRCodeLarge.PageQRCodeLarge" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.Ending.PageQRCodeWithPhoto.PageQRCodeWithPhoto" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.GameScreenTransition.GameScreenTransition" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.GameStatusDisplay.GameStatusDisplay" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.GameStatusDisplay.GameStatusDisplayV2" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.GameStatusDisplay.GameStatusDisplayV3" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.ParallaxBackground.ParallaxConfigurableManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.ParallaxBackground.ParallaxManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameBasketball.BasketballMotionInputManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameBasketball.GesturePen" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameBasketball.HandDisplay" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameBasketball.PageGameBasketball" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameBasketball.PoseTrackingFollower" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.CatchAndDodgeItemSlot" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.CatchAndDodgeObject.CatchAndDodgeObject" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.CatchAndDodgeObject.CatchAndDodgeObjectManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.CatchAndDodgePlayer" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.CatchAndDodgeScoreDetector" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchAndDodge.PageGameCatchAndDodge" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.CatchThingObject.CatchThingObject" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.CatchThingObject.CatchThingObjectManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.CatchThingScoreDetector" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.GamePlayCatchThing" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.HandObjectController" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.PageCatchThingScoreResult" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameCatchThing.PageGameCatchThing" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameColourMatch.GameCLMItem" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameColourMatch.GameCMLButton" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameColourMatch.PageGameColourMatch" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.GameItems.CollectableItem" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.GameItems.ObstacleItem" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.MorecFlow.HipMotionInputManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.PageGameHorizontalJump" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.Script.JumpMorecGesturePen" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.Script.PlayerMain" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameHorizontalJump.SpritesheetHelper.SpriteDebugger" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameMonkeyTap.GamePlayMonkeyTap" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameMonkeyTap.NumberCard" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameMonkeyTap.PageGameMonkeyTap" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameMonkeyTap.PageMonkeyTapScoreResult" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGamePhotoMatch.PageGamePhotoMatch" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGamePhotoMatch.PhotoMatchCard" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGamePhotoMatch.PhotoMatchPlayField" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.MotionInput.DebugToggleForMotionInput" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.MotionInput.MotionInputAim" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.MotionInput.MotionInputPen" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.MotionInput.MotionInputReceiver" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.PageGameWhackAMole" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.PoseTrackingFollower" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay.PageGameWhackAMole.SpotElement" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.General.PageBasic" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.General.PageIdle" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.General.PageTnC" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PagePhotoTaking.PagePhotoTaking" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PagePhotoTaking.PhotoTakingCamera" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PageSmartSelfie.PageResultSmartSelfie" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PageSmartSelfie.PageSmartSelfie" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PageSmartSelfie.SmartSelfieHintBox" preserve="all" />
+    <type fullname="Technine.MiniGame.Pages.PageSmartSelfie.SmartSelfieStylePickerElement" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.BgVideoPlayer.BgVideoView" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.LeanInput.InteractiveElement" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.GestureDrawArea" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.GesturePattern" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.Recognizer" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.MorecGesturePenDebugger" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.PhotoModule.PhotoTakingManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.PoseTracking.MoveNetVisualizerV2" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.PoseTracking.PoseTrackingLightWeightManager" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.PoseTracking.PoseTrackingMiniGraph" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.PoseTracking.PoseTrackingRenderTextureSelector" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.VideoKit.CustomVideoKitCameraView" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.VideoKit.VideoKitWebcamOutputRawImage" preserve="all" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.GestureData" preserve="nothing" serialized="true" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.GestureDrawArea/ResultEvent" preserve="nothing" serialized="true" />
+    <type fullname="Technine.MiniGame.Services.MorecFlow.GestureRecognizer.GestureLine" preserve="nothing" serialized="true" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.ParallaxBackground.ParallaxElement" preserve="nothing" serialized="true" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.ParallaxBackground.ParallaxElementRepositionLogicModel" preserve="nothing" serialized="true" />
+    <type fullname="Technine.MiniGame.Pages.GamePlay._Common.ParallaxBackground.ParallaxSettingModel" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Feedbacks, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MoreMountains.Feedbacks.MMF_Player" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMPositionShaker" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMRotationShaker" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMScaleShaker" preserve="all" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Pause" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Rotation" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Scale" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_SpriteRenderer" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMFeedbacksEvents" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_HoldingPause" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Looper" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_SetActive" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_CameraShake" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Particles" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Collider2D" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Position" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_RotationShake" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Events" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_PositionShake" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_ScaleShake" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Animation" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Feedbacks" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Tools, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MoreMountains.Tools.ShaderController" preserve="all" />
+    <type fullname="MoreMountains.Tools.MMTweenType" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[Technine.MiniGame.Services.VideoKit.CustomVideoKitCameraView]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanCommon">
+    <type fullname="Lean.Common.LeanSelectable/LeanSelectEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Feedbacks.MMTools">
+    <type fullname="MoreMountains.Feedbacks.MMF_ImageAlpha" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_MMSoundManagerSound" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_ShaderController" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.Feedbacks.MMF_Sound" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Feedbacks.TextMeshPro">
+    <type fullname="MoreMountains.Feedbacks.MMF_TMPColor" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MoreMountains.Feedbacks.URP">
+    <type fullname="MoreMountains.FeedbacksForThirdParty.MMF_Bloom_URP" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.FeedbacksForThirdParty.MMF_ChromaticAberration_URP" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.FeedbacksForThirdParty.MMF_LensDistortion_URP" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.FeedbacksForThirdParty.MMF_PaniniProjection_URP" preserve="nothing" serialized="true" />
+    <type fullname="MoreMountains.FeedbacksForThirdParty.MMF_Vignette_URP" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
