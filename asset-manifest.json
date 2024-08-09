@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/telegram_game/static/css/main.b247c203.css",
-    "main.js": "/telegram_game/static/js/main.15668186.js",
-    "static/js/453.d2c32a24.chunk.js": "/telegram_game/static/js/453.d2c32a24.chunk.js",
-    "index.html": "/telegram_game/index.html",
-    "main.b247c203.css.map": "/telegram_game/static/css/main.b247c203.css.map",
-    "main.15668186.js.map": "/telegram_game/static/js/main.15668186.js.map",
-    "453.d2c32a24.chunk.js.map": "/telegram_game/static/js/453.d2c32a24.chunk.js.map"
+    "main.css": "/static/css/main.b247c203.css",
+    "main.js": "/static/js/main.17098d9d.js",
+    "static/js/453.d2c32a24.chunk.js": "/static/js/453.d2c32a24.chunk.js",
+    "index.html": "/index.html",
+    "main.b247c203.css.map": "/static/css/main.b247c203.css.map",
+    "main.17098d9d.js.map": "/static/js/main.17098d9d.js.map",
+    "453.d2c32a24.chunk.js.map": "/static/js/453.d2c32a24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b247c203.css",
-    "static/js/main.15668186.js"
+    "static/js/main.17098d9d.js"
   ]
 }
