@@ -3,7 +3,6 @@ import React from "react";
 const GameContainer = () => {
   return (
     <>
-      game
       <div style={{ width: "100%", height: "100vh" }}>
         <iframe
           src={"/WebGl/index.html"}
