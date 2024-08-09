@@ -6,9 +6,15 @@
     <title>Unity WebGL Player | CTH_ShopBack_Hardcode</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <style>
+      /* Set max width for canvas */
+      #unity-canvas {
+        max-width: 1080px;
+        max-height: 1920px;
+      }
+    </style>
   </head>
   <body>
-    <div id="root"></div>
     <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=1080 height=1920 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
@@ -18,12 +24,8 @@
         </div>
       </div>
       <div id="unity-warning"> </div>
-      <div id="unity-footer">
-        <div id="unity-webgl-logo"></div>
-        <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">CTH_ShopBack_Hardcode</div>
-      </div>
     </div>
+    <div id="root"></div> <!-- React root container -->
     <script>
 
       var container = document.querySelector("#unity-container");
@@ -104,20 +106,22 @@
       var script = document.createElement("script");
       script.src = loaderUrl;
       script.onload = () => {
-        createUnityInstance(canvas, config, (progress) => {
-          progressBarFull.style.width = 100 * progress + "%";
-              }).then((unityInstance) => {
-                loadingBar.style.display = "none";
-                fullscreenButton.onclick = () => {
-                  unityInstance.SetFullscreen(1);
-                };
-              }).catch((message) => {
-                alert(message);
-              });
-            };
-
+        if (typeof createUnityInstance !== 'undefined') {
+          createUnityInstance(canvas, config, (progress) => {
+            progressBarFull.style.width = 100 * progress + "%";
+          }).then((unityInstance) => {
+            loadingBar.style.display = "none";
+          }).catch((message) => {
+            alert(message);
+          });
+        } else {
+          console.error('createUnityInstance is not defined');
+        }
+      };
+  
       document.body.appendChild(script);
 
     </script>
+
   </body>
 </html>
